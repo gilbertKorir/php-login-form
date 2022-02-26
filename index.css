@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+form{
+    text-align: center;
+    margin-top: 60px;
+
+}
+form input{
+    border-radius: 25px;
+    padding: 10px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
